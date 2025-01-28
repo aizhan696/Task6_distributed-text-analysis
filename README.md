@@ -8,4 +8,4 @@
  - Execution sequence with explanations for each stage (Map, Reduce, Shuffle, etc.).
 
    
- - - Examples of input data and result format. 
+ - Examples of input data and result format. 
